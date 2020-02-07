@@ -1,0 +1,13 @@
+{
+    "name": "monomelodies/codein-typehints",
+    "description": "Codein checks for proper use of type hints",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Marijn Ophorst",
+            "email": "marijn@monomelodies.nl"
+        }
+    ],
+    "require": {}
+}
